@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "image": "/assets/images/Arrival.png",
+    "clicked": false
+  },
+  {
+    "id": 2,
+    "image": "/assets/images/Darknight.png",
+    "clicked": false
+  },
+  {
+    "id": 3,
+    "image": "/assets/images/ForceAwayken.png",
+    "clicked": false
+  },
+  {
+    "id": 4,
+    "image": "/assets/images/Gravity.png",
+    "clicked": false
+  },
+  {
+    "id": 5,
+    "image": "/assets/images/LastJedi.png",
+    "clicked": false
+  },
+  {
+    "id": 6,
+    "image": "/assets/images/Logan.png",
+    "clicked": false
+  },
+  {
+    "id": 7,
+    "image": "/assets/images/MadMax.png",
+    "clicked": false
+  },
+  {
+    "id": 8,
+    "image": "/assets/images/Metropolis.png",
+    "clicked": false
+  },
+  {
+    "id": 9,
+    "image": "/assets/images/ThorRagnarok.png",
+    "clicked": false
+  },
+  {
+    "id": 10,
+    "image": "/assets/images/Toy2.png",
+    "clicked": false
+  },
+  {
+    "id": 11,
+    "image": "/assets/images/Toy3.png",
+    "clicked": false
+  },
+  {
+    "id": 12,
+    "image": "/assets/images/WarForthePlanetofApes.png",
+    "clicked": false
+  }
+]
